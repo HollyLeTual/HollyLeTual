@@ -1,0 +1,13 @@
+#This is my exercise
+
+#!/bin/bash
+
+
+read -p 'What is your first name?:' fname
+read -p 'What is your last name?:' lname
+echo "My full name is $fname $lname"
+
+#echo "My last name is $name"
+#echo "What is your full name?"
+
+
